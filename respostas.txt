@@ -1,0 +1,2 @@
+2 desvantagens sistemas de controlo de Versões é: Lentidão; Não é prático e pode ser lento na maioria das vezes.
+Apenas uma pessoa pode trabalhar; Ou seja, se um trabalha para um projeto em equipa, os outros não podem. 
