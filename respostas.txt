@@ -1,1 +1,2 @@
-Os 3 componentes principais do Git são: Comprometido, Modificado e Alterado.
+para verificar os ficheiros adicionados, coloque: $ git status
+Ele vai mostrar os ficheiros e status adicionado.
